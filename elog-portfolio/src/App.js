@@ -23,7 +23,7 @@ function App() {
         </a>
       </header>
       {/* <Project/> */}
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
